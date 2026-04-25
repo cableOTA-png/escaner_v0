@@ -23,7 +23,7 @@ Para ejecutar las herramientas en un entorno local:
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/tu_usuario/nombre-del-repo.git](https://github.com/tu_usuario/nombre-del-repo.git)
+git clone https://github.com/cableOTA-png/escanerv0.git
 
 # Ejecutar el script principal
 python3 scanner.py
